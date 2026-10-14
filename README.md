@@ -1,5 +1,6 @@
 # EpicTracer
 
+[![Build](https://github.com/mbenimam/EpicTracer/actions/workflows/build.yml/badge.svg)](https://github.com/mbenimam/EpicTracer/actions/workflows/build.yml)
 ![C++17](https://img.shields.io/badge/C%2B%2B-17-blue)
 ![CMake 3.16+](https://img.shields.io/badge/CMake-3.16%2B-blue)
 ![31 doctest cases](https://img.shields.io/badge/tests-31%20doctest%20cases-brightgreen)
